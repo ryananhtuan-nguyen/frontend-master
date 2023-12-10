@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+:root {
+  --Tomato: hsl(4, 100%, 67%);
+  --Dark-Slate-Grey: hsl(234, 29%, 20%);
+  --Charcoal-Grey: hsl(235, 18%, 26%);
+  --Grey: hsl(231, 7%, 60%);
+  --White: hsl(0, 0%, 100%);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--Charcoal-Grey);
+  font-family: 'Roboto', sans-serif;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.form-wrapper {
+  display: flex;
+  width: 100%;
+  gap: 2rem;
+}
+
+.outer-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  width: 50%;
+  height: 50%;
+}
+
+img {
+  width: 20rem;
+  height: 40rem;
+  fill: aliceblue;
+}
+
+.form h1 {
+  text-align: center;
+}
+.form p {
+  text-align: left;
+}
+
+input {
+  height: 2rem;
+  width: 20rem;
+}
+
+.tick {
+  width: 2rem;
+  height: 2rem;
+}
+
+.input {
+  margin-top: 60px;
+}
