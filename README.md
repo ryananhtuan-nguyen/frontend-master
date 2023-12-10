@@ -13,4 +13,4 @@ This is a solution to the Frontend Mentor challenges help you improve your codin
  
 ## Author
 - Website - [@Ryan Nguyen](https://ryannguyen-portfolio.vercel.app/)
-- Frontend Mentor - [@RyanNguyen](https://www.frontendmentor.io/profile/RyanNguyen)
+- Frontend Mentor - [@RyanNguyen](https://www.frontendmentor.io/profile/ryananhtuan-nguyen)
