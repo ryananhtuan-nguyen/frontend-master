@@ -12,5 +12,5 @@ This is a solution to the Frontend Mentor challenges help you improve your codin
 - [Styled Components](https://styled-components.com/) - For styles
  
 ## Author
-- Website - [Ryan Nguyen]([https://www.your-site.com](https://ryannguyen-portfolio.vercel.app/))
+- Website - [@Ryan Nguyen]([https://www.your-site.com](https://ryannguyen-portfolio.vercel.app/))
 - Frontend Mentor - [@RyanNguyen](https://www.frontendmentor.io/profile/RyanNguyen)
